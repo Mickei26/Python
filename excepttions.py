@@ -9,6 +9,7 @@ except ValueError:
 
 try:
     result = x/y
+    print(f"{x}/{y} = {result}")
 except ZeroDivisionError:
     print("Zero Division")
     sys.exit(1)
