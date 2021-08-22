@@ -14,4 +14,4 @@ print(a)
 a.remove(1)
 print(a)
 # dem bao nhieu gia tri trong 1 list
-print(f"the set has {len(a)} elements") 
+print(f"the set has {len(a)} elements")
