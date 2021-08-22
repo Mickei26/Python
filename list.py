@@ -2,7 +2,7 @@ from typing import Collection
 
 
 name = "Nguyen"
-# in ra thu tu trong string name 
+# in ra thu tu trong string name
 print(name[0])
 print(name[1])
 names = ["Nguyen", "Nguyen2", "Nguyen1"]
@@ -10,7 +10,7 @@ names = ["Nguyen", "Nguyen2", "Nguyen1"]
 print(names)
 # in vi tri trong list names
 print(names[0])
-# list la list co the thay doi duoc gia tri trong list 
+# list la list co the thay doi duoc gia tri trong list
 # tuple la list nhung khong the thay doi duoc gia tri trong do
 # list va tuple co the hien duoc gia tri giong nhau trong list ma khong bi xoa bo
 # set la 1 list collection de lay nhung bien unique giong khong nhau va khong duoc sap xep theo thu tu
